@@ -40,7 +40,7 @@
 
 ### 方式一：直接运行（推荐普通用户）
 
-1. 从 [Releases](https://github.com/你的用户名/C盘清理大师/releases) 下载最新版 `C盘清理大师.exe`
+1. 从 [Releases](https://github.com/JOKRAT/C-/releases) 下载最新版 `C盘清理大师.exe`
 2. **以管理员身份运行**（右键 → 以管理员身份运行）
 3. 点击「一键扫描」分析 C 盘状态
 4. 选择要清理的项目，点击「一键清理」
@@ -51,8 +51,8 @@
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/你的用户名/C盘清理大师.git
-cd C盘清理大师
+git clone https://github.com/JOKRAT/C-.git
+cd C-
 
 # 2. 运行（需要 Python 3.11+）
 python main.py
@@ -140,7 +140,7 @@ python main.py
 
 ## 📄 许可证
 
-[MIT License](LICENSE)
+本项目采用 MIT 许可证。
 
 ---
 
