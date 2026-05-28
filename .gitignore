@@ -1,0 +1,26 @@
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller 构建产物
+dist/
+build/
+*.spec
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE 配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+.DS_Store
+*.log
